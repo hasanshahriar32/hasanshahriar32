@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
   
 </p>
 <div align="center">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&layout=compact&theme=vision-friendly-dark" />
+   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&layout=compact&theme=vision-friendly-dark" />
 </div>
 <br />
 
