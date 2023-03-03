@@ -21,6 +21,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 </p>
+<div align="center">
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&layout=compact&theme=vision-friendly-dark" />
+</div>
+<br />
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -29,9 +33,7 @@ You can click the Preview link to take a look at your changes.
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanshahriar32&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
   
 </p>
-<div align="center">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&layout=compact&theme=vision-friendly-dark" />
-</div>
+
 <br />
 
 
