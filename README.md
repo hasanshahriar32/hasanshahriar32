@@ -35,8 +35,9 @@ You can click the Preview link to take a look at your changes.
   
 ![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=hasanshahriar32&theme=vision-friendly-dark&show_icons=true&hide=["issues"])
 
-![](https://komarev.com/ghpvc/?username=hasanshahriar32)
+<img src="https://tryhackme-badges.s3.amazonaws.com/lol32.png" alt="TryHackMe">
 
+![](https://komarev.com/ghpvc/?username=hasanshahriar32)
 
 <br />
 
