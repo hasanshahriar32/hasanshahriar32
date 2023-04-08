@@ -1,11 +1,22 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Hasan👨‍💻
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Hasan
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+Fullstack+Developer+and;a+Cyber+Security+specialist.;I+love+to+play+with+JS%2C+React;Nodejs%2C+Express%2C+Redux%2C+MongoDB%2C;TailwindCSS%2C+Nextjs%2C+TypeScript" alt="Typing SVG" /></a>
 
+
+
+## **👨‍💻About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+<p>A full-stack developer who focuses on writing clean, standard code that adheres to best practices, and who is also a lifelong learner who is continually investigating new technologies and solutions to different programming challenges in order to advance.
+</p>
 
 - 👀 I’m interested in Electronics, Robotics, Web developing, Cyber security & Basic graphics design.
 - 🌱 I’m currently learning full-stack Web Developing
 - 💞️ I’m looking to collaborate on freelancing
 - 📫 How to reach me : Contact at https://t.me/mrxx32
+<br>
+
 
 <!---
 hasanshahriar32/hasanshahriar32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,20 +29,29 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&layout=compact&theme=vision-friendly-dark" />
+ <img src="https://tryhackme-badges.s3.amazonaws.com/lol32.png" alt="TryHackMe">
 </div>
 <br />
 
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanshahriar32&theme=vision-friendly-dark&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
-  
-![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=hasanshahriar32&theme=vision-friendly-dark&show_icons=true&hide=["issues"])
+  <p align="center">
+        <a href="https://github.com/hasanshahriar32/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="hasanshahriar32 :: overall Top Langs " /></a>
+<a href="https://github.com/hasanshahriar32/">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasanshahriar32&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+      </p>
+<p align="center">
+          <a href="https://github.com/hasanshahriar32/">
+          <img  src="https://github-readme-stats.vercel.app/api?username=hasanshahriar32&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hasanshahriar32&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/lol32.png" alt="TryHackMe">
-
-![](https://komarev.com/ghpvc/?username=hasanshahriar32)
 
 <br />
 
@@ -44,7 +64,9 @@ You can click the Preview link to take a look at your changes.
 [![Facebook][facebook-shield]][facebook-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![mail][mail-shield]][mail-url]
+<p align="end">
 
+![](https://komarev.com/ghpvc/?username=hasanshahriar32)</p>
 <!-- MARKDOWN LINKS & IMAGES -->
 
 
