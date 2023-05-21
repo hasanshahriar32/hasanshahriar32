@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
       </p>
 <p align="center">
           <a href="https://github.com/hasanshahriar32/">
-          <img  src="https://github-readme-stats.vercel.app/api?username=hasanshahriar32&show_icons=true&theme=gruvbox&hide_border=true" />
+<!--           <img  src="https://github-readme-stats.vercel.app/api?username=hasanshahriar32&show_icons=true&theme=gruvbox&hide_border=true" /> -->
           <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hasanshahriar32&theme=gruvbox&hide_border=true" />
           </a>
        </p>
