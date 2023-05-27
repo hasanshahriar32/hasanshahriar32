@@ -84,16 +84,14 @@
 
 <!-- CONTACT -->
 
-## ![contactIcon][contacticon-shield] Contact me
+## ☎️ Contact me
 
-<p align="center">
-  <a href="https://facebook.com/H4549"><img src="https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white" alt="Facebook"/></a>
-  <a href="https://linkedin.com/in/hasanshahriar32"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555" alt="LinkedIn"/></a>
-  <a href="mailto:hasanshahriar32@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-hasanshahriar32%40gmail.com-lightgray" alt="Email"/></a>
-</p>
+[![Facebook][facebook-shield]][facebook-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Email][email-shield]][email-url]
 
 <p align="end">
-  <img src="https://komarev.com/ghpvc/?username=hasanshahriar32" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=hasanshahriar32" alt="Profile Views">
 </p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
