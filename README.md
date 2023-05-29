@@ -84,11 +84,11 @@ Mongoose       5  hrs 0 mins(apx)  ███████████████
 
 <p align="center">
   <a href="https://github.com/hasanshahriar32/">
-    <picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
 <!--   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" /> -->
   <img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/output/snake.svg" alt="Snake animation" width="1400" />
-</picture>
+
     
   </a>
 </p>
