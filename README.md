@@ -68,6 +68,26 @@
   </a>
 </p>
 
+
+
+<div align="center">
+ <p align="left">📊 last week I worked on :</p> <br/>
+ 
+```js
+JavaScript     15 hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
+react JS      20 hrs 31 mins(apx)  ██████████████████████████░░░░░░░░  85 % 
+Node express   10 hrs 0 mins(apx)  ████████████████████████░░░░░░░░░░  70 % 
+Mongoose       5  hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
+```
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/hasanshahriar32/">
+    <img src="https://github.com/info-mdshakeeb/info-mdshakeeb/blob/output/snake.svg" alt="Snake animation" width="1400" />
+  </a>
+</p>
+
 <br>
 
 ## 🏆 GitHub Trophies
