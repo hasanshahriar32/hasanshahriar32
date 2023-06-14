@@ -82,7 +82,7 @@
 </p>
 
 
-
+<!-- 
 <div align="center">
  <p align="left">📊 last week I worked on :</p> <br/>
  
@@ -93,7 +93,7 @@ Node express   10 hrs 0 mins(apx)  ███████████████
 Mongoose       5  hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
 ```
 
-</div>
+</div> -->
 
 <p align="center">
   <a href="https://github.com/hasanshahriar32/">
