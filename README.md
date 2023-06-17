@@ -1,9 +1,13 @@
+
 <p align="center">
   <img src="https://i.ibb.co/jLDRtms/Turquoise-Simple-Modern-Linkedin-Banner.png" alt="Banner" width="100%">
 </p>
 
+<h1 align="center">$whoami?</h1>
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Hasan
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+Fullstack+Developer+and;a+Cyber+Security+specialist.;I+love+to+play+with+JS%2C+React;Nodejs%2C+Express%2C+Redux%2C+MongoDB%2C;TailwindCSS%2C+Nextjs%2C+TypeScript" alt="Typing SVG" /></a>
+
 
 ## 👨‍💻 About Me
 <br>
@@ -13,7 +17,8 @@
 
 - 👀 I’m interested in Electronics, Robotics, Web development, Cybersecurity, and Basic graphics design.
 - 🌱 I’m currently learning full-stack web development.
-- 💞️ I’m looking to collaborate on freelancing projects.
+- 🔭 I’m frequently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
+- 💞️ I’m looking to collaborate on freelancing projects, part-time jobs.
 - 📫 You can reach me at [Telegram](https://t.me/mrxx32)
 
 
