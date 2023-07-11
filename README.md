@@ -88,6 +88,24 @@
 <!-- <a href="https://github.com/hasanshahriar32" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 </p>
 
+<br>
+
+## 📜 Testimonials
+
+<table>
+  <tr>
+    <th>Author</th>
+    <th>Message</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/aishtiaque/">Ishtiaque Ahmed</a></td>
+    <td>Shahriar Hasan is a person with great enthusiasm who worked under my direct supervision for almost 1.5 months. He is quite capable of managing team, dealing with technical challenges. He is also quite skilled in the development domain. Besides, I also found him as a person who is very disciplined and committed to the work he is assigned. His skills and traits can be of good service to any company. Wishing all the best for his/her future career.</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/emam-hossain23/">EMAM HOSSAIN</a></td>
+    <td>Hi! This is Emam Hossain working as a frontend developer. I am writing this letter to recommend Shahriar Hasan for the position of web developer at our team project. Shahriar worked for design and functionality for nearly two months, and he was routinely throughout that time the most creative and capable web developer we had. He had a fantastic eye for unique designs and was able to implement some of the best strategies our team had. Shahriar did UI design and development, and web page design and development. He played a significant role, often, in developing and implementing overall web strategies, and dealt with the details along with the bigger picture. His coding was excellent and his designs were unique and innovative, so clients were always happy.</td>
+  </tr>
+</table>
 
 <!-- 
 <div align="center">
