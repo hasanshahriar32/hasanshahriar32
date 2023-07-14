@@ -152,8 +152,11 @@ Mongoose       5  hrs 0 mins(apx)  ███████████████
 [![Facebook][facebook-shield]][facebook-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Email][email-shield]][email-url]
+[![wakatime](https://wakatime.com/badge/user/a8a9276c-84b1-4253-addc-95844ce18350.svg)](https://wakatime.com/@a8a9276c-84b1-4253-addc-95844ce18350)
 
 <p align="end">
+
+
   <img src="https://komarev.com/ghpvc/?username=hasanshahriar32" alt="Profile Views">
 </p>
 
