@@ -15,7 +15,7 @@
 
 <br>
 <p align="justify">
-  I'm a full-stack developer with a focus on writing clean, standard code that adheres to best practices. I'm also a lifelong learner who continually explores new technologies and solutions to programming challenges in order to advance.
+  I am a full-stack developer with a focus on writing clean, standard code that adheres to best practices. I'm also a lifelong learner who continually explores new technologies and solutions to programming challenges in order to advance.
 </p>
 
 - 👀 I’m interested in Electronics, Robotics, Web development, Cybersecurity, and Basic graphics design.
