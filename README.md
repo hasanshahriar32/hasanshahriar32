@@ -10,6 +10,9 @@
 
 
 ## 👨‍💻 About Me
+
+<picture> <a href="https://app.daily.dev/hasanshahriar32"><img align="right" src="https://api.daily.dev/devcards/2e50502eb973452aa8a2006dfc298408.png?r=vf0" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture>
+
 <br>
 <p align="center">
   I'm a full-stack developer with a focus on writing clean, standard code that adheres to best practices. I'm also a lifelong learner who continually explores new technologies and solutions to programming challenges in order to advance.
