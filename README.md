@@ -19,7 +19,7 @@
 </p>
 <br>
 
-<picture> <a href="https://app.daily.dev/hasanshahriar32"><img align="right" src="https://api.daily.dev/devcards/2e50502eb973452aa8a2006dfc298408.png?r=vf0" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture>
+<picture> <a href="https://app.daily.dev/hasanshahriar32"><img align="right"  src="https://raw.githubusercontent.com/hasanshahriar32/hasanshahriar32/devcard/devcard.svg" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture>
 
 <br>
 
