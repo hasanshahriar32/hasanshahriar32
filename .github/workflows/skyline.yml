@@ -5,7 +5,7 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["output"]}
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Current configuration doesn't require a GitHub token
-          token: NOT_NEEDED
+          token: ${{ secrets.WORKFLOW_TOKEN }}
 
           # Options
           user: hasanshahriar32
