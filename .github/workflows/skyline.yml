@@ -2,7 +2,7 @@
 name: skyline
 on:
   # Schedule updates 
-  schedule: [{cron: "* * 0 * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["output"]}
