@@ -160,6 +160,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Email][email-shield]][email-url]
 [![wakatime](https://wakatime.com/badge/user/a8a9276c-84b1-4253-addc-95844ce18350.svg)](https://wakatime.com/@a8a9276c-84b1-4253-addc-95844ce18350)
+[![Metrics](https://github.com/hasanshahriar32/hasanshahriar32/actions/workflows/metrics.yml/badge.svg?branch=main)](https://github.com/hasanshahriar32/hasanshahriar32/actions/workflows/metrics.yml)
 
 <p align="end">
 
