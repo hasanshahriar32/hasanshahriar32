@@ -123,6 +123,12 @@
 </table>
 
 
+<div>
+  
+<picture><img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/main/metrics.plugin.skyline.svg" alt="skyline" align="left" /></picture>
+
+<picture> <a href="https://app.daily.dev/hasanshahriar32"><img  align="right"  src="https://raw.githubusercontent.com/hasanshahriar32/hasanshahriar32/devcard/devcard.svg" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture> 
+</div>
 
 
 <p align="center">
@@ -136,14 +142,15 @@
   </a>
 </p>
 
+
 <br>
 
 ## 🏆 GitHub Trophies
 
-
 <p align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=hasanshahriar32&theme=gruvbox&no-frame=true&no-bg=true" alt="hasanshahriar32 :: GitHub Trophies"/>
-<!-- <picture> <a href="https://app.daily.dev/hasanshahriar32"><img  align="right"  src="https://raw.githubusercontent.com/hasanshahriar32/hasanshahriar32/devcard/devcard.svg" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture> -->
+
+  
 
 </p>
 
