@@ -25,3 +25,10 @@ jobs:
           user: hasanshahriar32
           template: classic
           config_timezone: Asia/Dhaka
+          plugin_skyline_settings: |
+            {
+              "url": "https://hasanshahriar32.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
