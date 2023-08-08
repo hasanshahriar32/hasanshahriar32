@@ -140,17 +140,17 @@
 
 ## 🏆 GitHub Trophies
 
-<picture> <a href="https://app.daily.dev/hasanshahriar32"><img align="right" src="https://raw.githubusercontent.com/hasanshahriar32/hasanshahriar32/devcard/devcard.svg" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanshahriar32&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="hasanshahriar32 :: GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hasanshahriar32&theme=gruvbox&no-frame=true&no-bg=true" alt="hasanshahriar32 :: GitHub Trophies"/>
+<picture> <a href="https://app.daily.dev/hasanshahriar32"><img  align="right"  src="https://raw.githubusercontent.com/hasanshahriar32/hasanshahriar32/devcard/devcard.svg" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture>
+
 </p>
 
 ### ✍️ Random Dev Quote
 
-<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
-</p>
+
 
 <!-- CONTACT -->
 
