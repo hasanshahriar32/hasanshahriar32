@@ -13,51 +13,51 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: 🦑 Medias
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: medias.svg
-          token: ${{ secrets.WORKFLOW_TOKEN }}
-          base: ""
-          config_order: anilist, music
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_music: yes
-          plugin_music_playlist: ${{ secrets.PLAYLIST }}
-          plugin_music_limit: 9
+      # - name: 🦑 Medias
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: medias.svg
+      #     token: ${{ secrets.WORKFLOW_TOKEN }}
+      #     base: ""
+      #     config_order: anilist, music
+      #     output_action: gist
+      #     committer_gist: ${{ secrets.GIST }}
+      #     plugin_anilist: yes
+      #     plugin_anilist_medias: anime
+      #     plugin_anilist_sections: favorites, characters
+      #     plugin_anilist_limit: 2
+      #     plugin_anilist_limit_characters: 22
+      #     plugin_music: yes
+      #     plugin_music_playlist: ${{ secrets.PLAYLIST }}
+      #     plugin_music_limit: 9
 
-      - name: 🦑 Achievements
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.WORKFLOW_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_fortune: yes
+      # - name: 🦑 Achievements
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: achievements.svg
+      #     token: ${{ secrets.WORKFLOW_TOKEN }}
+      #     base: ""
+      #     output_action: gist
+      #     committer_gist: ${{ secrets.GIST }}
+      #     plugin_achievements: yes
+      #     plugin_achievements_display: compact
+      #     plugin_fortune: yes
 
-      - name: 🦑 Sponsors
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: sponsors.svg
-          token: ${{ secrets.WORKFLOW_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: amount
+      # - name: 🦑 Sponsors
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: sponsors.svg
+      #     token: ${{ secrets.WORKFLOW_TOKEN }}
+      #     base: ""
+      #     output_action: gist
+      #     committer_gist: ${{ secrets.GIST }}
+      #     plugin_sponsors: yes
+      #     plugin_sponsors_past: yes
+      #     plugin_sponsorships: yes
+      #     plugin_sponsorships_sections: amount
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
@@ -83,21 +83,21 @@ jobs:
           plugin_notable: yes
           plugin_discussions: yes
           
-      - name: 🦑 Splatoon
-        uses: lowlighter/metrics@latest
-        if: ${{ success() || failure() }}
-        with:
-          filename: splatoon.svg
-          token: ${{ secrets.WORKFLOW_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_splatoon: yes
-          plugin_splatoon_token: ${{ secrets.SPLATOON_TOKEN }}
-          plugin_splatoon_statink: yes
-          plugin_splatoon_statink_token: ${{ secrets.SPLATOON_STATINK_TOKEN }}
-          plugin_splatoon_sections: salmon-run
-          plugin_splatoon_salmon_limit: 2
-          extras_css: |
-            h2 { display: none !important; }
-            .match:not(:last-child) { padding-bottom: 4px; }
+      # - name: 🦑 Splatoon
+      #   uses: lowlighter/metrics@latest
+      #   if: ${{ success() || failure() }}
+      #   with:
+      #     filename: splatoon.svg
+      #     token: ${{ secrets.WORKFLOW_TOKEN }}
+      #     base: ""
+      #     output_action: gist
+      #     committer_gist: ${{ secrets.GIST }}
+      #     plugin_splatoon: yes
+      #     plugin_splatoon_token: ${{ secrets.SPLATOON_TOKEN }}
+      #     plugin_splatoon_statink: yes
+      #     plugin_splatoon_statink_token: ${{ secrets.SPLATOON_STATINK_TOKEN }}
+      #     plugin_splatoon_sections: salmon-run
+      #     plugin_splatoon_salmon_limit: 2
+      #     extras_css: |
+      #       h2 { display: none !important; }
+      #       .match:not(:last-child) { padding-bottom: 4px; }
