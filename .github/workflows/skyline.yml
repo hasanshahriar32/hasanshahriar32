@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Skyline
+name: GitHub City
 on:
   # Schedule updates 
   schedule: [{cron: "0 0 * * *"}]
@@ -14,12 +14,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.skyline.svg
+          filename: metrics.plugin.skyline.city.svg
           token: ${{ secrets.WORKFLOW_TOKEN }}
           base: ""
           plugin_skyline: yes
           plugin_skyline_year: 2023
-          plugin_skyline_frames: 20
+          plugin_skyline_frames: 6
           plugin_skyline_quality: 1
           # Options
           user: hasanshahriar32
