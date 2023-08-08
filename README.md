@@ -19,9 +19,9 @@
 </p>
 <br>
 
-<picture> <a href="https://app.daily.dev/hasanshahriar32"><img align="right"  src="https://raw.githubusercontent.com/hasanshahriar32/hasanshahriar32/devcard/devcard.svg" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture>
 
-<br>
+<picture><img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/main/general.svg" alt=" animation" align="right" /></picture>
+
 
 - 👀 I’m interested in Electronics, Robotics, Web development, Cybersecurity, and Basic graphics design.
 - 🌱 I’m currently learning full-stack web development.
@@ -29,11 +29,6 @@
 - 💞️ I’m looking to collaborate on freelancing projects, part-time jobs.
 - 📫 You can reach me at [Telegram](https://t.me/mrxx32)
 
-
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/hasanshahriar32/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
-[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:hasanshahriar32?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/hasanshahriar32/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
-[<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/hasanshahriar32/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
 
 <br>
@@ -85,6 +80,10 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br>
+
+
+
+
 <p align="center">
   <a href="https://github.com/hasanshahriar32/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanshahriar32&theme=gruvbox&hide_border=true" alt="hasanshahriar32 :: Streak Stats"/>
@@ -101,6 +100,8 @@
   </a>
 <!-- <a href="https://github.com/hasanshahriar32" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 </p>
+
+
 
 <br>
 
@@ -121,18 +122,8 @@
   </tr>
 </table>
 
-<!-- 
-<div align="center">
- <p align="left">📊 last week I worked on :</p> <br/>
- 
-```js
-JavaScript     15 hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
-react JS      20 hrs 31 mins(apx)  ██████████████████████████░░░░░░░░  85 % 
-Node express   10 hrs 0 mins(apx)  ████████████████████████░░░░░░░░░░  70 % 
-Mongoose       5  hrs 0 mins(apx)  █████████████████████░░░░░░░░░░░░░  60 % 
-```
 
-</div> -->
+
 
 <p align="center">
   <a href="https://github.com/hasanshahriar32/">
@@ -149,7 +140,9 @@ Mongoose       5  hrs 0 mins(apx)  ███████████████
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<picture> <a href="https://app.daily.dev/hasanshahriar32"><img align="right" src="https://raw.githubusercontent.com/hasanshahriar32/hasanshahriar32/devcard/devcard.svg" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture>
+
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=hasanshahriar32&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="hasanshahriar32 :: GitHub Trophies"/>
 </p>
 
