@@ -30,6 +30,12 @@
 - 📫 You can reach me at [Telegram](https://t.me/mrxx32)
 
 
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/hasanshahriar32/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:hasanshahriar32?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/hasanshahriar32/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
+[<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/hasanshahriar32/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+
+
 <br>
 
 ## :computer: Technologies I Know
