@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: Skyline
 on:
   # Schedule updates 
   schedule: [{cron: "0 0 * * *"}]
@@ -14,22 +14,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Current configuration doesn't require a GitHub token
-          token: ${{ secrets.WORKFLOW_TOKEN }}
-
-          # Options
-          user: hasanshahriar32
-          template: classic
+          filename: metrics.plugin.skyline.svg
+          token: NOT_NEEDED
           base: ""
-          config_timezone: Asia/Dhaka
           plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_settings: {
-  "url": "https://skyline.github.com/${login}/${year}",
-  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
-  "wait": 1,
-  "hide": "button, footer, a"
-}
-
           plugin_skyline_year: 2023
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
