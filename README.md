@@ -1,7 +1,7 @@
 
 <p align="center">
 <!--   <img src="https://i.ibb.co/jLDRtms/Turquoise-Simple-Modern-Linkedin-Banner.png" alt="Banner" width="100%"> -->
-  <img src="https://i.ibb.co/ZX2y5hK/b4e371619042d1e80918d09904e90f7d.gif" alt="Banner" width="100%" height="250px">
+  <img src="https://i.ibb.co/ZX2y5hK/b4e371619042d1e80918d09904e90f7d.gif" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">$whoami?</h1>
