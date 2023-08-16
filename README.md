@@ -72,7 +72,7 @@
 
 <div align="center">
   <a href='https://tryhackme.com/p/hasanshahriar32' target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/lol32.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/hasanshahriar32.png" alt="TryHackMe">
   </a>
 </div>
 
