@@ -20,7 +20,7 @@ jobs:
           plugin_skyline: yes
           plugin_skyline_year: 2023
           plugin_skyline_frames: 120
-          plugin_skyline_quality: 1
+          plugin_skyline_quality: .5
           plugin_skyline_settings: |
             {
               "url": "https://honzaap.github.io/GithubCity/?name=hasanshahriar32&year=2023",
