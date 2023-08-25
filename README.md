@@ -128,7 +128,7 @@
 
 <div>
   
-<picture><img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/main/metrics.plugin.skyline.svg" alt="skyline" align="left" /></picture>
+<picture><img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/main/metrics.plugin.wakatime.svg" alt="skyline" align="left" /></picture>
 
 <picture> <a href="https://app.daily.dev/hasanshahriar32"><img  align="right"  src="https://raw.githubusercontent.com/hasanshahriar32/hasanshahriar32/devcard/devcard.svg" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture> 
 </div>
