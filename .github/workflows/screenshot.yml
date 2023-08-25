@@ -27,4 +27,4 @@ jobs:
           plugin_screenshot_mode: image
           plugin_screenshot_selector: body
           plugin_screenshot_title: Screenshot of Portfolio
-          plugin_screenshot_url: https://shahriarhasan.vercel.app
+          plugin_screenshot_url: https://shahriarhasan.vercel.app/about
