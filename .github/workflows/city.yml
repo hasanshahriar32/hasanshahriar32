@@ -1,0 +1,30 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: City
+on:
+  # Schedule updates 
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.city.svg
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2023
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io/GithubCity/?name=hasanshahriar32&year=2023",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
