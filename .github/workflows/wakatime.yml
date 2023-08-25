@@ -22,6 +22,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Dhaka
+          filename: metrics.plugin.wakatime.svg
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_languages_other: yes
@@ -30,3 +31,4 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com/@a8a9276c-84b1-4253-addc-95844ce18350
           plugin_wakatime_user: hasanshahriar32
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
