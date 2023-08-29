@@ -102,9 +102,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hasanshahriar32&theme=gruvbox&layout=compact&hide_border=true" alt="hasanshahriar32's GitHub stats" />
   </a>
 <!-- <a href="https://github.com/hasanshahriar32" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
 </p>
-
-
 
 <br>
 
@@ -142,7 +141,7 @@
 <!--   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" /> -->
   <img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/output/snake.svg" alt="Snake animation" width="1400" />
 
-    
+  ![](https://raw.githubusercontent.com/hasanshahriar32/cf-stats/main/output/light_card.svg#gh-dark-mode-only)  
   </a>
 </p>
 
