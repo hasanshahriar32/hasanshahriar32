@@ -127,7 +127,7 @@
 
 <div>
 <a href="https://honzaap.github.io/GithubCity/?name=hasanshahriar32&year=2023">  
-<img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/main/metrics.plugin.skyline.city.svg" alt="skyline" align="left" />
+<img src="https://raw.githubusercontent.com/hasanshahriar32/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="skyline" align="left" />
 </a>
 
 <picture> <a href="https://app.daily.dev/hasanshahriar32"><img  align="right"  src="https://raw.githubusercontent.com/hasanshahriar32/hasanshahriar32/devcard/devcard.svg" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture> 
@@ -141,9 +141,15 @@
 <!--   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" /> -->
   <img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/output/snake.svg" alt="Snake animation" width="1400" />
 
-  ![](https://raw.githubusercontent.com/hasanshahriar32/cf-stats/main/output/light_card.svg#gh-dark-mode-only)  
   </a>
 </p>
+<!--   ![](https://raw.githubusercontent.com/hasanshahriar32/cf-stats/main/output/light_card.svg#gh-dark-mode-only)   -->
+
+
+<div>
+<a href="https://honzaap.github.io/GithubCity/?name=hasanshahriar32&year=2023">  
+<img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/main/metrics.plugin.skyline.city.svg" alt="skyline" />
+</a>
 
 
 <br>
