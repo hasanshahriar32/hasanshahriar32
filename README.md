@@ -147,9 +147,15 @@
 
 
 <div>
-<a href="https://hasanshahriar32.github.io/GithubCity/?name=hasanshahriar32&year=2023">  
-<img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/main/metrics.plugin.skyline.city.svg" alt="skyline"  width="100%" />
-</a>
+<details>
+  <summary>Click to see Activity Skyline</summary>
+  <div>
+    <a href="https://hasanshahriar32.github.io/GithubCity/?name=hasanshahriar32&year=2023">
+      <img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/main/metrics.plugin.skyline.city.svg" alt="skyline" width="100%" />
+    </a>
+  </div>
+</details>
+
 
 
 <br>
