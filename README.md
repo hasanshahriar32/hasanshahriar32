@@ -145,6 +145,7 @@
 </p>
 <!--   ![](https://raw.githubusercontent.com/hasanshahriar32/cf-stats/main/output/light_card.svg#gh-dark-mode-only)   -->
 
+[![An image of @hasanshahriar32's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hasanshahriar32)](https://holopin.io/@hasanshahriar32)
 
 <div>
 <details>
