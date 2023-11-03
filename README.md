@@ -165,7 +165,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-
+<a href="https://github.com/hasanshahriar32">  
 <p align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=hasanshahriar32&theme=gruvbox&no-frame=true&no-bg=true" alt="hasanshahriar32 :: GitHub Trophies"/>
 
@@ -174,6 +174,8 @@
 
   <p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/2.gif" alt="Bt" width="100%">
 <p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/4.gif" alt="Bt" width="100%">
+
+</a>
 
 ### ✍️ Random Dev Quote
 <p align="center">
