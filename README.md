@@ -125,6 +125,12 @@
     <td><a target="_blank" href="https://www.linkedin.com/in/emam-hossain23/">EMAM HOSSAIN</a></td>
     <td>Hi! This is Emam Hossain working as a frontend developer. I am writing this letter to recommend Shahriar Hasan for the position of web developer at our team project. Shahriar worked for design and functionality for nearly two months, and he was routinely throughout that time the most creative and capable web developer we had. He had a fantastic eye for unique designs and was able to implement some of the best strategies our team had. Shahriar did UI design and development, and web page design and development. He played a significant role, often, in developing and implementing overall web strategies, and dealt with the details along with the bigger picture. His coding was excellent and his designs were unique and innovative, so clients were always happy.</td>
   </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/mdshakeeb/">Muhammad shakeeb</a></td>
+    <td>I am delighted to provide my strong recommendation for Shahriar Hasan, a highly skilled and dedicated professional whom I had the pleasure of working with at Team Neuronex. During our time together on the AI Launchpad project, Shahriar consistently demonstrated exceptional qualities and contributions.
+
+Shahriar Hasan is not only a skilled professional but also a pleasure to work with. His congenial nature and collaborative spirit make him a valuable asset to any team. I have no doubt that he will continue to excel in his future endeavors, and I wholeheartedly endorse him. I eagerly look forward to the opportunity to collaborate with Shahriar again and would gladly refer to him as a trusted colleague in all future endeavors.</td>
+  </tr>
 </table>
 
 
