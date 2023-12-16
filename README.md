@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/T8W9SYm/Turquoise-Simple-Modern-Linkedin-Banner-1.png" alt="Banner" width="100%">
+  <img src="https://i.ibb.co/xsJwFM0/Turquoise-Simple-Modern-Linkedin-Banner-3.png" alt="Banner" width="100%">
 <!--   <img src="https://i.ibb.co/jLDRtms/Turquoise-Simple-Modern-Linkedin-Banner.png" alt="Banner" width="100%"> -->
 <!--   <img src="https://i.ibb.co/TvvDbZF/ezgif-1-f83ade1589.gif" alt="Banner" width="100%"> -->
 </p>
