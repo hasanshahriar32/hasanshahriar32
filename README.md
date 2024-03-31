@@ -165,11 +165,8 @@
 <br />
 
 ## 🏆 GitHub Trophies
-<p align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=hasanshahriar32&theme=gruvbox&no-frame=true&no-bg=true" alt="hasanshahriar32 :: GitHub Trophies"/>
 
-
-</p>
 
 
 <div>
@@ -187,7 +184,6 @@
 ### ✍️ Random Dev Quote
 <p align="center">
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
-
 </p>
 
 ## ☎️ Contact me
