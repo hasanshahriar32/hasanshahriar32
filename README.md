@@ -176,8 +176,8 @@
 <details>
   <summary>Miscellaneous</summary>
   <div>
-     <p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/2.gif" alt="Bt" width="100%">
-     <p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/4.gif" alt="Bt" width="100%">
+     <img src="https://github.com/oxygen51/oxygen51/blob/main/2.gif" alt="Bt" width="100%" />
+     <img src="https://github.com/oxygen51/oxygen51/blob/main/4.gif" alt="Bt" width="100%" />
   </div>
 </details>
 
