@@ -12,12 +12,12 @@
 ## 👨‍💻 About Me
 
 
-<br>
+<br />
 
 <p align="justify">
   I am a full-stack developer with a focus on writing clean, standard code that adheres to best practices. I'm also a lifelong learner who continually explores new technologies and solutions to programming challenges in order to advance.
 </p>
-<br>
+<br />
 
 
 <picture><img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/main/general.svg" alt=" animation" align="right" /></picture>
@@ -25,16 +25,16 @@
 
 - 👀 I’m interested in Electronics, Robotics, Web development, Cybersecurity, and Basic graphics design.
 - 🌱 I’m currently learning full-stack web development.
-- 🔭 I’m frequently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
+- 🔭 I’m frequently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br />if u like do check it out !
 - 💞️ I’m looking to collaborate on freelancing projects, part-time jobs.
 - 📫 You can reach me at [Telegram](https://t.me/mrxx32)
 
 
 
-<br>
+<br />
 
 ## :computer: Technologies I Know
-<br>
+<br />
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -67,7 +67,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
-<br>
+<br />
 
 <div align="center">
   <a href='https://tryhackme.com/p/hasanshahriar32' target="_blank">
@@ -79,7 +79,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-<br>
+<br />
 
 
 
@@ -106,7 +106,7 @@
 
 </p>
 
-<br>
+<br />
 
 ## 📜 Testimonials
 
@@ -164,7 +164,7 @@ Shahriar Hasan is not only a skilled professional but also a pleasure to work wi
 
 
 
-<br>
+<br />
 
 ## 🏆 GitHub Trophies
 <p align="center">
