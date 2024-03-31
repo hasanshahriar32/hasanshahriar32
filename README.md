@@ -5,7 +5,7 @@
 
 <h1 align="center">$whoami?</h1>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Hasan
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hi there, I'm Hasan
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+Fullstack+Developer;and+a+Web+Security+Expert.;I+love+to+play+with+JS%2C+React,;Nodejs%2C+Express%2C+Redux%2C+MongoDB%2C;RNative%2C+Nextjs%2C+TypeScript." alt="Typing SVG" /></a>
 
 
@@ -71,7 +71,7 @@
 
 <div align="center">
   <a href='https://tryhackme.com/p/hasanshahriar32' target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/hasanshahriar32.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/hasanshahriar32.png" alt="TryHackMe" />
   </a>
 </div>
 
@@ -86,19 +86,19 @@
 
 <p align="center">
   <a  align="center" href="https://github.com/hasanshahriar32">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanshahriar32&theme=gruvbox&hide_border=true" width="100%" alt="Hasan GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanshahriar32&theme=gruvbox&hide_border=true" width="100%" alt="Hasan GitHub Contribution" />
   </a>
   <a href="https://github.com/hasanshahriar32/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanshahriar32&theme=gruvbox&hide_border=true" alt="hasanshahriar32 :: Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanshahriar32&theme=gruvbox&hide_border=true" alt="hasanshahriar32 :: Streak Stats" />
   </a>
   <a href="https://github.com/hasanshahriar32/" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="hasanshahriar32 :: Overall Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="hasanshahriar32 :: Overall Top Langs" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/hasanshahriar32/">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasanshahriar32&theme=gruvbox&layout=compact&hide_border=true" alt="hasanshahriar32 :: Top Langs by commit"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasanshahriar32&theme=gruvbox&layout=compact&hide_border=true" alt="hasanshahriar32 :: Top Langs by commit" />
   </a>
   <a href="https://github.com/hasanshahriar32/" align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=hasanshahriar32&theme=gruvbox&layout=compact&hide_border=true" alt="hasanshahriar32's GitHub stats" />
@@ -137,7 +137,7 @@ Shahriar Hasan is not only a skilled professional but also a pleasure to work wi
 <img src="https://raw.githubusercontent.com/hasanshahriar32/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="skyline" align="left" />
 </a>
 
-<picture> <a href="https://app.daily.dev/hasanshahriar32"><img  align="right"  src="https://raw.githubusercontent.com/hasanshahriar32/hasanshahriar32/devcard/devcard.svg" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture> 
+<picture> <a href="https://app.daily.dev/hasanshahriar32"><img  align="right"  src="https://raw.githubusercontent.com/hasanshahriar32/hasanshahriar32/devcard/devcard.svg" width="300" alt="Shahriar Hasan's Dev Card" /></a></picture> 
 </div>
 
 
@@ -203,7 +203,7 @@ Shahriar Hasan is not only a skilled professional but also a pleasure to work wi
 <p align="end">
 
 
-  <img src="https://komarev.com/ghpvc/?username=hasanshahriar32" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=hasanshahriar32" alt="Profile Views" />
 </p>
 
 
