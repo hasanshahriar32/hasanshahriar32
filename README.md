@@ -1,8 +1,6 @@
 
 <p align="center">
   <img src="https://i.ibb.co/xsJwFM0/Turquoise-Simple-Modern-Linkedin-Banner-3.png" alt="Banner" width="100%">
-<!--   <img src="https://i.ibb.co/jLDRtms/Turquoise-Simple-Modern-Linkedin-Banner.png" alt="Banner" width="100%"> -->
-<!--   <img src="https://i.ibb.co/TvvDbZF/ezgif-1-f83ade1589.gif" alt="Banner" width="100%"> -->
 </p>
 
 <h1 align="center">$whoami?</h1>
@@ -105,7 +103,6 @@
   <a href="https://github.com/hasanshahriar32/" align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=hasanshahriar32&theme=gruvbox&layout=compact&hide_border=true" alt="hasanshahriar32's GitHub stats" />
   </a>
-<!-- <a href="https://github.com/hasanshahriar32" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 </p>
 
@@ -148,12 +145,10 @@ Shahriar Hasan is not only a skilled professional but also a pleasure to work wi
   <a href="https://github.com/hasanshahriar32/">
 
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-<!--   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" /> -->
   <img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/output/snake.svg" alt="Snake animation" width="1400" />
 
   </a>
 </p>
-<!--   ![](https://raw.githubusercontent.com/hasanshahriar32/cf-stats/main/output/light_card.svg#gh-dark-mode-only)   -->
 
 [![An image of @hasanshahriar32's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hasanshahriar32)](https://holopin.io/@hasanshahriar32)
 
@@ -196,7 +191,6 @@ Shahriar Hasan is not only a skilled professional but also a pleasure to work wi
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
 
 </p>
-<!-- CONTACT -->
 
 ## ☎️ Contact me
 
@@ -212,7 +206,6 @@ Shahriar Hasan is not only a skilled professional but also a pleasure to work wi
   <img src="https://komarev.com/ghpvc/?username=hasanshahriar32" alt="Profile Views">
 </p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
 
 [thumbnail-shield]: https://i.ibb.co/d6hxnvd/Screenshot-50.png
 [tableofcontent-shield]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/28/undefined/external-direction-business-and-teamwork-flatart-icons-flat-flatarticons.png
