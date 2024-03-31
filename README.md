@@ -134,7 +134,7 @@ Shahriar Hasan is not only a skilled professional but also a pleasure to work wi
 
 <div>
 <a href="https://codeforces.com/profile/hasanshahriar32">  
-<img src="https://raw.githubusercontent.com/hasanshahriar32/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="skyline" align="left" " />
+<img src="https://raw.githubusercontent.com/hasanshahriar32/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="skyline" align="left" />
 </a>
 
 <picture> <a href="https://app.daily.dev/hasanshahriar32"><img  align="right"  src="https://raw.githubusercontent.com/hasanshahriar32/hasanshahriar32/devcard/devcard.svg" width="300" alt="Shahriar Hasan's Dev Card"/></a></picture> 
