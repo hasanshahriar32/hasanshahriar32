@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/xsJwFM0/Turquoise-Simple-Modern-Linkedin-Banner-3.png" alt="Banner" width="100%">
+  <img src="https://i.ibb.co/xsJwFM0/Turquoise-Simple-Modern-Linkedin-Banner-3.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">$whoami?</h1>
