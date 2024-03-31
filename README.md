@@ -125,9 +125,7 @@
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/mdshakeeb/">Muhammad shakeeb</a></td>
-    <td>I am delighted to provide my strong recommendation for Shahriar Hasan, a highly skilled and dedicated professional whom I had the pleasure of working with at Team Neuronex. During our time together on the AI Launchpad project, Shahriar consistently demonstrated exceptional qualities and contributions.
-
-Shahriar Hasan is not only a skilled professional but also a pleasure to work with. His congenial nature and collaborative spirit make him a valuable asset to any team. I have no doubt that he will continue to excel in his future endeavors, and I wholeheartedly endorse him. I eagerly look forward to the opportunity to collaborate with Shahriar again and would gladly refer to him as a trusted colleague in all future endeavors.</td>
+    <td>I am delighted to provide my strong recommendation for Shahriar Hasan, a highly skilled and dedicated professional whom I had the pleasure of working with at Team Neuronex. During our time together on the AI Launchpad project, Shahriar consistently demonstrated exceptional qualities and contributions. Shahriar Hasan is not only a skilled professional but also a pleasure to work with. His congenial nature and collaborative spirit make him a valuable asset to any team. I have no doubt that he will continue to excel in his future endeavors, and I wholeheartedly endorse him. I eagerly look forward to the opportunity to collaborate with Shahriar again and would gladly refer to him as a trusted colleague in all future endeavors.</td>
   </tr>
 </table>
 
