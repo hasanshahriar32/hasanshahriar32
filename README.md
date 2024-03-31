@@ -86,7 +86,7 @@
 
 <p align="center">
   <a  align="center" href="https://github.com/hasanshahriar32">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanshahriar32&theme=gruvbox&hide_border=true" width="100% alt="Hasan GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanshahriar32&theme=gruvbox&hide_border=true" width="100%" alt="Hasan GitHub Contribution"/>
   </a>
   <a href="https://github.com/hasanshahriar32/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanshahriar32&theme=gruvbox&hide_border=true" alt="hasanshahriar32 :: Streak Stats"/>
