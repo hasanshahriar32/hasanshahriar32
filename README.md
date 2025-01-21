@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning full-stack web development.
 - 🔭 I’m frequently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br />if u like do check it out !
 - 💞️ I’m looking to collaborate on freelancing projects, part-time jobs.
-- 📫 You can reach me at [Telegram](https://t.me/mrxx32)
+- 📫 You can reach me at [Telegram](https://t.me/m4x1d)
 
 
 
