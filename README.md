@@ -84,22 +84,22 @@
 
 <p align="center">
   <a  align="center" href="https://github.com/hasanshahriar32">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanshahriar32&theme=gruvbox&hide_border=true" width="100%" alt="Hasan GitHub Contribution" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanshahriar32&theme=github_dark&hide_border=true" width="100%" alt="Hasan GitHub Contribution" />
   </a>
   <a href="https://github.com/hasanshahriar32/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanshahriar32&theme=gruvbox&hide_border=true" alt="hasanshahriar32 :: Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanshahriar32&theme=github_dark&hide_border=true" alt="hasanshahriar32 :: Streak Stats" />
   </a>
   <a href="https://github.com/hasanshahriar32/" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="hasanshahriar32 :: Overall Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanshahriar32&langs_count=6&theme=github_dark&layout=compact&hide_border=true" alt="hasanshahriar32 :: Overall Top Langs" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/hasanshahriar32/">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasanshahriar32&theme=gruvbox&layout=compact&hide_border=true" alt="hasanshahriar32 :: Top Langs by commit" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasanshahriar32&theme=github_dark&layout=compact&hide_border=true" alt="hasanshahriar32 :: Top Langs by commit" />
   </a>
   <a href="https://github.com/hasanshahriar32/" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=hasanshahriar32&theme=gruvbox&layout=compact&hide_border=true" alt="hasanshahriar32's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hasanshahriar32&theme=github_dark&layout=compact&hide_border=true" alt="hasanshahriar32's GitHub stats" />
   </a>
 
 </p>
@@ -163,7 +163,7 @@
 <br />
 
 ## 🏆 GitHub Trophies
-  <img  src="https://github-profile-trophy.vercel.app/?username=hasanshahriar32&theme=gruvbox&no-frame=true&no-bg=true" alt="hasanshahriar32 :: GitHub Trophies"/>
+  <img  src="https://github-profile-trophy.vercel.app/?username=hasanshahriar32&theme=github_dark&no-frame=true&no-bg=true" alt="hasanshahriar32 :: GitHub Trophies"/>
 
 
 
@@ -180,7 +180,7 @@
 
 
 ### ✍️ Random Dev Quote
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote"/>
 
 ## ☎️ Contact me
 
