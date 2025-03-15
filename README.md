@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/xsJwFM0/Turquoise-Simple-Modern-Linkedin-Banner-3.png" alt="Banner" width="100%" />
+<a href="https://shahriarhasan.vercel.app"><img src="https://i.ibb.co.com/DDqdGr1w/Screenshot-2025-03-15-11-29-43.png" alt="Banner" width="100%" border="0" /></a>
 
 <h1 align="center">$whoami?</h1>
 
