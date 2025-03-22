@@ -68,8 +68,8 @@
 <br />
 
 <div align="center">
-  <a href='https://tryhackme.com/p/hasanshahriar32' target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/hasanshahriar32.png?update=1" alt="TryHackMe Img" />
+  <a href='https://tryhackme.com/p/mr.hasan' target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mr.hasan.png?update=1" alt="TryHackMe Img" />
   </a>
 </div>
 
