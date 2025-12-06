@@ -62,12 +62,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install dependencies (docker, jq)
+      - name: Install dependencies (jq + docker if missing)
         run: |
-          sudo apt-get update
-          sudo apt-get install -y docker.io jq
-          sudo service docker start
-          docker --version
+          set -euo pipefail
+
+          # ensure jq
+          if ! command -v jq >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y jq
+          fi
+
+          # ensure docker - install only if missing using official script to avoid containerd conflicts
+          if ! command -v docker >/dev/null 2>&1; then
+            echo "Docker CLI not found — installing via official script"
+            curl -fsSL https://get.docker.com | sudo sh
+            sudo systemctl enable --now docker || sudo service docker start || true
+            sudo usermod -aG docker $USER || true
+            sleep 2
+          fi
+
+          # verify
+          docker --version || true
           jq --version
 
       - name: 🦑 General
