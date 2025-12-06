@@ -59,11 +59,23 @@ jobs:
       #     plugin_sponsorships: yes
       #     plugin_sponsorships_sections: amount
 
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies (docker, jq)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y docker.io jq
+          sudo service docker start
+          docker --version
+          jq --version
+
       - name: 🦑 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
+          # Use the configured WORKFLOW_TOKEN secret
           token: ${{ secrets.WORKFLOW_TOKEN }}
           base: header
           base_indepth: yes
@@ -82,6 +94,7 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
+
           
       # - name: 🦑 Splatoon
       #   uses: lowlighter/metrics@latest
