@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/xsJwFM0/Turquoise-Simple-Modern-Linkedin-Banner-3.png" alt="Banner" width="100%" />
+<img src="https://i.ibb.co.com/DPG00cMs/1790176218620.jpg" alt="Banner" width="100%" />
 
 <h1 align="center">$whoami?</h1>
 
